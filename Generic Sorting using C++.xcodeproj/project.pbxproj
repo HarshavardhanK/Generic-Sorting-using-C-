@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		D64D06921D709BDB00D2BC84 /* Generic Sorting using C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Generic Sorting using C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D64D06951D709BDB00D2BC84 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D64D069C1D709BEB00D2BC84 /* Sorting.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Sorting.hpp; sourceTree = "<group>"; };
+		D64D069D1D709C1D00D2BC84 /* Generic.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Generic.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				D64D06951D709BDB00D2BC84 /* main.cpp */,
+				D64D069C1D709BEB00D2BC84 /* Sorting.hpp */,
+				D64D069D1D709C1D00D2BC84 /* Generic.h */,
 			);
 			path = "Generic Sorting using C++";
 			sourceTree = "<group>";
